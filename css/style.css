@@ -133,9 +133,15 @@ a:hover {
   color: #3f3f3f;
   font-family: Roboto-Light;
 }
+.location a span {
+  font-size: 12px;
+}
 .measures {
   color: #3f3f3f;
   font-family: Roboto-Light;
+}
+.measures span {
+  font-size: 12px;
 }
 .offer_btn .btn {
   width: 70px;
